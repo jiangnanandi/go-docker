@@ -1,3 +1,3 @@
-module github.com/war1oc/go-docker
+module github.com/jiangnanandi/go-docker
 
 go 1.12
